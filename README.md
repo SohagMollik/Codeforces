@@ -1,1 +1,4 @@
-[A - Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/tree/main/A%20-%20Solution) 
+- [A - Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/tree/main/A%20-%20Solution) 
+- [B- Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/tree/main/B%20-%20Solution)
+- [C - Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/tree/main/C%20-%20Solution)
+- [D- Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/tree/main/D%20-%20Solution)
