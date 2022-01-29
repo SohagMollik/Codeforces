@@ -10,19 +10,25 @@
 using namespace std;
 int main()
 {
-
     fast;
-    int  t;
-    cin>>t;
-    while(t--){
-        int h,v,l;
-        cin>>h>>v>>l;
-        int loop=v+l;
-        while(loop>0){
-            int absor=floor(h/2)+10;
-            int light=h-10;
-
+    int test;
+    cin>>test;
+    while(test--)
+    {
+        int x,n,m;
+        cin>>x>>n>>m;
+        for(int i=0;i<n;i++){
+            if(x>10)x=x/2+10;
+            else
+              break;
         }
+      for(int i=0;i<m;i++){
+        x-=10;
+      }
+        if(x<=0)
+        cout<<"YES"<<endl;
+        else cout<<"NO\n";
+
     }
 
     return 0;
