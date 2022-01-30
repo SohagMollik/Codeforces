@@ -1,7 +1,7 @@
-- [A - Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution) 
-- [B - Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution)
-- [C - Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution)
-- [D - Solution](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution)
+- [A - Solution](https://github.com/SohagMollik/codeforces#A - Solution) 
+- [B - Solution](https://github.com/SohagMollik/codeforces#B - Solution)
+- [C - Solution](https://github.com/SohagMollik/codeforces#C - Solution)
+- [D - Solution](https://github.com/SohagMollik/codeforces#D - Solution)
 
 # A - Solution
 | Problem | Solution |
