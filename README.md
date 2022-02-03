@@ -1,9 +1,9 @@
-- [A - Solution] 
-- [B - Solution]
-- [C - Solution]
-- [D - Solution]
+- [A - Solution](#A-Solution) 
+- [B - Solution](#B-Solution) 
+- [C - Solution](#C-Solution) 
+- [D - Solution](#D-Solution) 
 
-# A - Solution
+- [A - Solution](#A-Solution)
 | Problem | Solution |
 | ------- | -------- |
 | [A. A Variety of Operations](https://codeforces.com/problemset/problem/1556/A?locale=en) | [A. A Variety of Operations.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20A%20Variety%20of%20Operations.cpp) |
