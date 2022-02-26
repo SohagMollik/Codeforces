@@ -158,3 +158,5 @@
 | [A. Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | [A. Restoring Three Numbers.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Restoring%20Three%20Numbers.cpp) |
 | [A. Review Site](https://codeforces.com/problemset/problem/1511/A) | [A. Review Site.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Review%20Site.cpp) |
 | [A. Road To Zero](https://codeforces.com/problemset/problem/1342/A) | [A. Road To Zero.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Road%20To%20Zero.cpp) |
+| [A. Doors and Keys](https://codeforces.com/problemset/problem/1644/A) | [A. Doors and Keys.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Doors%20and%20Keys.cpp) |
+| [A. Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [A. Sereja and Dima.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Sereja%20and%20Dima.cpp) |
