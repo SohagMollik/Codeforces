@@ -160,3 +160,6 @@
 | [A. Road To Zero](https://codeforces.com/problemset/problem/1342/A) | [A. Road To Zero.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Road%20To%20Zero.cpp) |
 | [A. Doors and Keys](https://codeforces.com/problemset/problem/1644/A) | [A. Doors and Keys.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Doors%20and%20Keys.cpp) |
 | [A. Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [A. Sereja and Dima.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Sereja%20and%20Dima.cpp) |
+| [A. Deletions of Two Adjacent Letters](https://codeforces.com/contest/1650/problem/A) | [A. Deletions of Two Adjacent Letters.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Deletions%20of%20Two%20Adjacent%20Letters.cpp) |
+| [A. Playoff](https://codeforces.com/contest/1651/problem/A) | [A. Playoff.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Playoff.cpp) |
+| [A. Short Substrings](https://codeforces.com/problemset/problem/1367/A) | [A. Short Substrings.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Short%20Substrings.cpp) |
