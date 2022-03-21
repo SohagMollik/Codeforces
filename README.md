@@ -201,3 +201,15 @@
 | [A. Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A) | [A. Yet Another Two Integers Problem.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Yet%20Another%20Two%20Integers%20Problem.cpp) |
 | [A. Young Physicist](https://codeforces.com/problemset/problem/69/A) | [A. Young Physicist.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Young%20Physicist.cpp) |
 | [A. cAPS lOCK](https://codeforces.com/problemset/problem/131/A) | [A. cAPS lOCK.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20cAPS%20lOCK.cpp) |
+| [A. Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | [A. Maximum Cake Tastiness.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Maximum%20Cake%20Tastiness.cpp) |
+
+# B-Solution
+| Problem | Solution |
+| ------- | -------- |
+| [B. A and B and Compilation Errors](https://codeforces.com/problemset/problem/519/B) | [B. A and B and Compilation Errors.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20A%20and%20B%20and%20Compilation%20Errors.cpp) |
+| [B. AccurateLee](https://codeforces.com/problemset/problem/1369/B) | [B. AccurateLee.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20AccurateLee.cpp) |
+| [B. Array Reodering](https://codeforces.com/problemset/problem/1535/B) | [B. Array Reodering.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Array%20Reodering.cpp) |
+| [B. Balanced Array](https://codeforces.com/problemset/problem/1343/B) | [B. Balanced Array.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Balanced%20Array.cpp) |
+| [B. Borze](https://codeforces.com/problemset/problem/32/B) | [B. Borze.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Borze.cpp) |
+| [B. Construct the String](https://codeforces.com/problemset/problem/1335/B) | [B. Construct the String.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Construct%20the%20String.cpp) |
+| [B. CopyCopyCopyCopyCopy](https://codeforces.com/problemset/problem/1325/B) | [B. CopyCopyCopyCopyCopy.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20CopyCopyCopyCopyCopy.cpp) |
