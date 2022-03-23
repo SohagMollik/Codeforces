@@ -202,6 +202,7 @@
 | [A. Young Physicist](https://codeforces.com/problemset/problem/69/A) | [A. Young Physicist.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Young%20Physicist.cpp) |
 | [A. cAPS lOCK](https://codeforces.com/problemset/problem/131/A) | [A. cAPS lOCK.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20cAPS%20lOCK.cpp) |
 | [A. Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | [A. Maximum Cake Tastiness.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Maximum%20Cake%20Tastiness.cpp) |
+| [A. Integer Moves](https://codeforces.com/contest/1657/problem/A) | [A. Integer Moves.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Integer%20Moves.cpp) |
 
 # B-Solution
 | Problem | Solution |
@@ -213,3 +214,12 @@
 | [B. Borze](https://codeforces.com/problemset/problem/32/B) | [B. Borze.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Borze.cpp) |
 | [B. Construct the String](https://codeforces.com/problemset/problem/1335/B) | [B. Construct the String.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Construct%20the%20String.cpp) |
 | [B. CopyCopyCopyCopyCopy](https://codeforces.com/problemset/problem/1325/B) | [B. CopyCopyCopyCopyCopy.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20CopyCopyCopyCopyCopy.cpp) |
+| [B. Drinks](https://codeforces.com/problemset/problem/200/B) | [B. Drinks.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Drinks.cpp) |
+| [B. Even Array](https://codeforces.com/problemset/problem/1367/B) | [B. Even Array.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Even%20Array.cpp) |
+| [B. Fair Division](https://codeforces.com/problemset/problem/1472/B) | [B. Fair Division.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Fair%20Division.cpp) |
+| [B. Fair Numbers](https://codeforces.com/contest/1411/problem/B) | [B. Fair Numbers.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Fair%20Numbers.cpp) |
+| [B. Friends and Candies](https://codeforces.com/problemset/problem/1538/B) | [B. Friends and Candies.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Friends%20and%20Candies.cpp) |
+| [B. GCD Arrays](https://codeforces.com/problemset/problem/1629/B) | [B. GCD Arrays.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20GCD%20Arrays.cpp) |
+| [B. Gifts Fixing](https://codeforces.com/problemset/problem/1399/B) | [B. Gifts Fixing.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Gifts%20Fixing.cpp) |
+| [B. Honest Coach](https://codeforces.com/problemset/problem/1360/B) | [B. Honest Coach.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Honest%20Coach.cpp) |
+| [B. I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | [B. I Hate 1111.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20I%20Hate%201111.cpp) |
