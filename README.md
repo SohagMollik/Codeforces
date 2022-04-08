@@ -208,6 +208,7 @@
 | [A. Haiku](https://codeforces.com/contest/78/problem/A) | [A. Haiku.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Haiku.cpp) |
 | [A. Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | [A. Marin and Photoshoot.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Marin%20and%20Photoshoot.cpp) |
 | [A. Vasya and Coins](https://codeforces.com/contest/1660/problem/A) | [A. Vasya and Coins.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Vasya%20and%20Coins.cpp) |
+| [A. GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | [A. GCD vs LCM.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20GCD%20vs%20LCM.cpp) |
 
 # B-Solution
 | Problem | Solution |
