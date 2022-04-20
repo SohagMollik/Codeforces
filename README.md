@@ -209,6 +209,12 @@
 | [A. Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | [A. Marin and Photoshoot.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Marin%20and%20Photoshoot.cpp) |
 | [A. Vasya and Coins](https://codeforces.com/contest/1660/problem/A) | [A. Vasya and Coins.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Vasya%20and%20Coins.cpp) |
 | [A. GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | [A. GCD vs LCM.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20GCD%20vs%20LCM.cpp) |
+| [A. Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | [A. Arpa’s hard exam and Mehrdad’s naive cheat.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat.cpp) |
+| [A. Array Balancing](https://codeforces.com/contest/1661/problem/A) | [A. Array Balancing.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Array%20Balancing.cpp) |
+| [A. Business trip](https://codeforces.com/contest/149/problem/A) | [A. Business trip.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Business%20trip.cpp) |
+| [A. C+=](https://codeforces.com/contest/1368/problem/A) | [A. C+=.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20C%2B%3D.cpp) |
+| [A. Elections](https://codeforces.com/contest/1593/problem/A) | [A. Elections.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Elections.cpp) |
+| [A. Red Versus Blue.cpp](https://codeforces.com/contest/1659/problem/A) | [A. Red Versus Blue.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Red%20Versus%20Blue.cpp) |
 
 # B-Solution
 | Problem | Solution |
