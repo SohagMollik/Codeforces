@@ -4,8 +4,8 @@
 - [D - Solution](#D-Solution) 
 
 # A-Solution
-|  Problem  | Solution |
-| --------  | -------- |
+|  Problem Link | Solution |
+|  ------------ | -------- |
 | [A. A Variety of Operations](https://codeforces.com/problemset/problem/1556/A?locale=en) | [A. A Variety of Operations.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20A%20Variety%20of%20Operations.cpp) |
 | [A. Add Odd or Subtract Even](https://codeforces.com/problemset/problem/1311/A) | [A. Add Odd or Subtract Even.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Add%20Odd%20or%20Subtract%20Even.cpp) |
 | [A. Add and Divide](https://codeforces.com/problemset/problem/1485/A) | [A. Add and Divide.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Add%20and%20Divide.cpp) |
@@ -215,10 +215,17 @@
 | [A. C+=](https://codeforces.com/contest/1368/problem/A) | [A. C+=.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20C%2B%3D.cpp) |
 | [A. Elections](https://codeforces.com/contest/1593/problem/A) | [A. Elections.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Elections.cpp) |
 | [A. Red Versus Blue.cpp](https://codeforces.com/contest/1659/problem/A) | [A. Red Versus Blue.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Red%20Versus%20Blue.cpp) |
+| [A. Direction Change](https://codeforces.com/contest/1668/problem/A) | [A. Direction Change.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Direction%20Change.cpp) |
+| [A. Division](https://codeforces.com/contest/1669/problem/A) | [A. Division.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Division.cpp) |
+| [A. Food for Animals](https://codeforces.com/contest/1675/problem/A) | [A. Food for Animals.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Food%20for%20Animals.cpp) |
+| [A. Lucky](https://codeforces.com/contest/1676/problem/A) | [A. Lucky.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Lucky.cpp) |
+| [A. Number Transformation](https://codeforces.com/contest/1674/problem/A) | [A. Number Transformation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Number%20Transformation.cpp) |
+| [A. Subtle Substring Subtraction](https://codeforces.com/contest/1673/problem/A) | [A. Subtle Substring Subtraction.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Subtle%20Substring%20Subtraction.cpp) |
+| [A. Tokitsukaze and All Zero Sequence](https://codeforces.com/contest/1678/problem/A) | [A. Tokitsukaze and All Zero Sequence.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Tokitsukaze%20and%20All%20Zero%20Sequence.cpp) |
 
 # B-Solution
-| Problem | Solution |
-| ------- | -------- |
+| Problem Link | Solution |
+| ------------ | -------- |
 | [B. A and B and Compilation Errors](https://codeforces.com/problemset/problem/519/B) | [B. A and B and Compilation Errors.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20A%20and%20B%20and%20Compilation%20Errors.cpp) |
 | [B. AccurateLee](https://codeforces.com/problemset/problem/1369/B) | [B. AccurateLee.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20AccurateLee.cpp) |
 | [B. Array Reodering](https://codeforces.com/problemset/problem/1535/B) | [B. Array Reodering.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Array%20Reodering.cpp) |
@@ -262,3 +269,27 @@
 | [B. Worms](https://codeforces.com/problemset/problem/474/B) | [B. Worms.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Worms.cpp) |
 | [B. Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) | [B. Xenia and Ringroad.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Xenia%20and%20Ringroad.cpp) |
 | [B1. Wonderful Coloring - 1](https://codeforces.com/problemset/problem/1551/B1) | [B1. Wonderful Coloring - 1.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B1.%20Wonderful%20Coloring%20-%201.cpp) |
+| [B. Dictionary](https://codeforces.com/contest/1674/problem/B) | [B. Dictionary.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Dictionary.cpp) |
+| [B. Equal Candies](https://codeforces.com/contest/1676/problem/B) | [B. Equal Candies.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Equal%20Candies.cpp) |
+| [B. Make It Increasing](https://codeforces.com/contest/1675/problem/B) | [B. Make It Increasing.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Make%20It%20Increasing.cpp) |
+| [B. Triple](https://codeforces.com/contest/1669/problem/B) | [B. Triple.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Triple.cpp) |
+| [B1. Tokitsukaze and Good 01-String (easy version)](https://codeforces.com/contest/1678/problem/B1) | [B1. Tokitsukaze and Good 01-String (easy version).cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B1.%20Tokitsukaze%20and%20Good%2001-String%20(easy%20version).cpp) |
+
+# C-Solution
+| Problem Link | Solution |
+| ------------ | -------- |
+| [C. Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | [C. Infinite Replacement.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Infinite%20Replacement.cpp) |
+| [C. Most Similar Words](https://codeforces.com/contest/1676/problem/C) | [C. Most Similar Words.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Most%20Similar%20Words.cpp) |
+| [C. Odd Even Increments](https://codeforces.com/contest/1669/problem/C) | [C. Odd Even Increments.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Odd%20Even%20Increments.cpp) |
+| [C. Given Length and Sum of Digits](https://codeforces.com/problemset/problem/489/C) | [C. Given Length and Sum of Digits.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Given%20Length%20and%20Sum%20of%20Digits.cpp) |
+| [C. K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C) | [C. K-th Not Divisible by n.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20K-th%20Not%20Divisible%20by%20n.cpp) |
+| [C. Move Brackets](https://codeforces.com/problemset/problem/1374/C) | [C. Move Brackets.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Move%20Brackets.cpp) |
+| [C. NN and the Optical Illusion](https://codeforces.com/problemset/problem/1100/C) | [C. NN and the Optical Illusion.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20NN%20and%20the%20Optical%20Illusion.cpp) |
+| [C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C) | [C. Number of Pairs.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Number%20of%20Pairs.cpp) |
+| [C. Registration system](https://codeforces.com/problemset/problem/4/C) | [C. Registration system.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Registration%20system.cpp) |
+
+# D-Solution
+| Problem Link | Solution |
+| ------------ | -------- |
+| [D. Another Problem About Dividing Numbers](https://codeforces.com/problemset/problem/1538/D) | [D. Another Problem About Dividing Numbers.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Another%20Problem%20About%20Dividing%20Numbers.cpp) |
+| [D. Zero Remainder Array](https://codeforces.com/problemset/problem/1374/D) | [D. Zero Remainder Array.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Zero%20Remainder%20Array.cpp) |
