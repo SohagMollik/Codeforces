@@ -222,6 +222,12 @@
 | [A. Number Transformation](https://codeforces.com/contest/1674/problem/A) | [A. Number Transformation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Number%20Transformation.cpp) |
 | [A. Subtle Substring Subtraction](https://codeforces.com/contest/1673/problem/A) | [A. Subtle Substring Subtraction.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Subtle%20Substring%20Subtraction.cpp) |
 | [A. Tokitsukaze and All Zero Sequence](https://codeforces.com/contest/1678/problem/A) | [A. Tokitsukaze and All Zero Sequence.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Tokitsukaze%20and%20All%20Zero%20Sequence.cpp) |
+| [A. AvtoBus](https://codeforces.com/contest/1679/problem/A) | [A. AvtoBus.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20AvtoBus.cpp) |
+| [A. Digit Minimization](https://codeforces.com/contest/1684/problem/A) | [A. Digit Minimization.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Digit%20Minimization.cpp) |
+| [A. Game with Cards](https://codeforces.com/contest/1681/problem/A) | [A. Game with Cards.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Game%20with%20Cards.cpp) |
+| [A. Minimums and Maximums](https://codeforces.com/contest/1680/problem/A) | [A. Minimums and Maximums.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Minimums%20and%20Maximums.cpp) |
+| [A. Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | [A. Tom Riddle's Diary.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Tom%20Riddle's%20Diary.cpp) |
+| [A. Palindromic Indices](https://codeforces.com/contest/1682/problem/A) | [A. Palindromic Indices.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Palindromic%20Indices.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -274,6 +280,9 @@
 | [B. Make It Increasing](https://codeforces.com/contest/1675/problem/B) | [B. Make It Increasing.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Make%20It%20Increasing.cpp) |
 | [B. Triple](https://codeforces.com/contest/1669/problem/B) | [B. Triple.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Triple.cpp) |
 | [B1. Tokitsukaze and Good 01-String (easy version)](https://codeforces.com/contest/1678/problem/B1) | [B1. Tokitsukaze and Good 01-String (easy version).cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B1.%20Tokitsukaze%20and%20Good%2001-String%20(easy%20version).cpp) |
+| [B. Card Trick](https://codeforces.com/contest/1681/problem/B) | [B. Card Trick.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Card%20Trick.cpp) |
+| [B. Robots](https://codeforces.com/contest/1680/problem/B) | [B. Robots.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Robots.cpp) |
+| [B. Z mod X = C](https://codeforces.com/contest/1684/problem/B) | [B. Z mod X = C.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Z%20mod%20X%20%3D%20C.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
@@ -287,9 +296,11 @@
 | [C. NN and the Optical Illusion](https://codeforces.com/problemset/problem/1100/C) | [C. NN and the Optical Illusion.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20NN%20and%20the%20Optical%20Illusion.cpp) |
 | [C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C) | [C. Number of Pairs.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Number%20of%20Pairs.cpp) |
 | [C. Registration system](https://codeforces.com/problemset/problem/4/C) | [C. Registration system.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Registration%20system.cpp) |
+| [C. Double Sort](https://codeforces.com/contest/1681/problem/C) | [C. Double Sort.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Double%20Sort.cpp) |
 
 # D-Solution
 | Problem Link | Solution |
 | ------------ | -------- |
 | [D. Another Problem About Dividing Numbers](https://codeforces.com/problemset/problem/1538/D) | [D. Another Problem About Dividing Numbers.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Another%20Problem%20About%20Dividing%20Numbers.cpp) |
 | [D. Zero Remainder Array](https://codeforces.com/problemset/problem/1374/D) | [D. Zero Remainder Array.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Zero%20Remainder%20Array.cpp) |
+| [D. X-Sum](https://codeforces.com/contest/1676/problem/D) | [D. X-Sum.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20X-Sum.cpp) |
