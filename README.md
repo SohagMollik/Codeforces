@@ -228,6 +228,12 @@
 | [A. Minimums and Maximums](https://codeforces.com/contest/1680/problem/A) | [A. Minimums and Maximums.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Minimums%20and%20Maximums.cpp) |
 | [A. Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | [A. Tom Riddle's Diary.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Tom%20Riddle's%20Diary.cpp) |
 | [A. Palindromic Indices](https://codeforces.com/contest/1682/problem/A) | [A. Palindromic Indices.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Palindromic%20Indices.cpp) |
+| [A. Beat The Odds](https://codeforces.com/contest/1691/problem/A) | [A. Beat The Odds.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Beat%20The%20Odds.cpp) |
+| [A. Print a Pedestal Codeforces logo](https://codeforces.com/contest/1690/problem/A) | [A. Print a Pedestal Codeforces logo.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Print%20a%20Pedestal%20Codeforces%20logo.cpp) |
+| [A. Marathon](https://codeforces.com/contest/1692/problem/A) | [A. Marathon.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Marathon.cpp) |
+| [A. Optimal Path](https://codeforces.com/contest/1700/problem/A) | [A. Optimal Path.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Optimal%20Path.cpp) |
+| [A. Grass Field](https://codeforces.com/contest/1701/problem/A) | [A. Grass Field.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Grass%20Field.cpp) |
+| [A. The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [A. The Third Three Number Problem.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20The%20Third%20Three%20Number%20Problem.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -283,6 +289,8 @@
 | [B. Card Trick](https://codeforces.com/contest/1681/problem/B) | [B. Card Trick.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Card%20Trick.cpp) |
 | [B. Robots](https://codeforces.com/contest/1680/problem/B) | [B. Robots.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Robots.cpp) |
 | [B. Z mod X = C](https://codeforces.com/contest/1684/problem/B) | [B. Z mod X = C.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Z%20mod%20X%20%3D%20C.cpp) |
+| [B. All Distinct](https://codeforces.com/contest/1692/problem/B) | [B. All Distinct.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20All%20Distinct.cpp) |
+| [B. Permutation](https://codeforces.com/contest/1701/problem/B) | [B. Permutation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Permutation.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
