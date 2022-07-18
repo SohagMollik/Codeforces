@@ -234,6 +234,7 @@
 | [A. Optimal Path](https://codeforces.com/contest/1700/problem/A) | [A. Optimal Path.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Optimal%20Path.cpp) |
 | [A. Grass Field](https://codeforces.com/contest/1701/problem/A) | [A. Grass Field.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Grass%20Field.cpp) |
 | [A. The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [A. The Third Three Number Problem.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20The%20Third%20Three%20Number%20Problem.cpp) |
+| [A. YES or YES](https://codeforces.com/contest/1703/problem/A) | [A. YES or YES.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20YES%20or%20YES.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -291,6 +292,7 @@
 | [B. Z mod X = C](https://codeforces.com/contest/1684/problem/B) | [B. Z mod X = C.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Z%20mod%20X%20%3D%20C.cpp) |
 | [B. All Distinct](https://codeforces.com/contest/1692/problem/B) | [B. All Distinct.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20All%20Distinct.cpp) |
 | [B. Permutation](https://codeforces.com/contest/1701/problem/B) | [B. Permutation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Permutation.cpp) |
+| [B. ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | [B. ICPC Balloons.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20ICPC%20Balloons.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
@@ -305,6 +307,7 @@
 | [C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C) | [C. Number of Pairs.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Number%20of%20Pairs.cpp) |
 | [C. Registration system](https://codeforces.com/problemset/problem/4/C) | [C. Registration system.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Registration%20system.cpp) |
 | [C. Double Sort](https://codeforces.com/contest/1681/problem/C) | [C. Double Sort.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Double%20Sort.cpp) |
+| [C. Cypher](https://codeforces.com/contest/1703/problem/C) | [C. Cypher.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Cypher.cpp) |
 
 # D-Solution
 | Problem Link | Solution |
