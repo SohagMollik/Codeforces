@@ -235,6 +235,9 @@
 | [A. Grass Field](https://codeforces.com/contest/1701/problem/A) | [A. Grass Field.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Grass%20Field.cpp) |
 | [A. The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [A. The Third Three Number Problem.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20The%20Third%20Three%20Number%20Problem.cpp) |
 | [A. YES or YES](https://codeforces.com/contest/1703/problem/A) | [A. YES or YES.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20YES%20or%20YES.cpp) |
+| [A. 2-3 Moves](https://codeforces.com/contest/1716/problem/A) | [A. 2-3 Moves.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%202-3%20Moves.cpp) |
+| [A. Perfect Permutation](https://codeforces.com/contest/1711/problem/A) | [A. Perfect Permutation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Perfect%20Permutation.cpp) |
+| [A. Three Doors](https://codeforces.com/contest/1709/problem/A) | [A. Three Doors.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Three%20Doors.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -293,6 +296,7 @@
 | [B. All Distinct](https://codeforces.com/contest/1692/problem/B) | [B. All Distinct.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20All%20Distinct.cpp) |
 | [B. Permutation](https://codeforces.com/contest/1701/problem/B) | [B. Permutation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Permutation.cpp) |
 | [B. ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | [B. ICPC Balloons.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20ICPC%20Balloons.cpp) |
+| [B. Remove Prefix](https://codeforces.com/contest/1714/problem/B) | [B. Remove Prefix.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Remove%20Prefix.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
