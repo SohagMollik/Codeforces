@@ -241,6 +241,12 @@
 | [A. Traveling Salesman Problem](https://codeforces.com/contest/1713/problem/A) | [A. Traveling Salesman Problem.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Traveling%20Salesman%20Problem.cpp) |
 | [A. Image](https://codeforces.com/contest/1721/problem/A) | [A. Image.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Image.cpp) |
 | [A. Wonderful Permutation](https://codeforces.com/contest/1712/problem/A) | [A. Wonderful Permutation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Wonderful%20Permutation.cpp) |
+| [A. Spell Check](https://codeforces.com/contest/1722/problem/A) | [A. Spell Check.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Spell%20Check.cpp) |
+| [A. Two Elevators](https://codeforces.com/contest/1729/problem/A) | [A. Two Elevators.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Two%20Elevators.cpp) |
+| [A. Sum](https://codeforces.com/contest/1742/problem/A) | [A. Sum.c](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Sum.c) |
+| [A. Maxmina](https://codeforces.com/contest/1746/problem/A) | [A. Maxmina.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Maxmina.cpp) |
+| [A. Number Replacement](https://codeforces.com/contest/1744/problem/A) | [A. Number Replacement.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Number%20Replacement.cpp) |
+| [A. Password](https://codeforces.com/contest/1743/problem/A) | [A. Password.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Password.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -302,6 +308,9 @@
 | [B. Remove Prefix](https://codeforces.com/contest/1714/problem/B) | [B. Remove Prefix.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Remove%20Prefix.cpp) |
 | [B. Optimal Reduction](https://codeforces.com/contest/1713/problem/B) | [B. Optimal Reduction.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Optimal%20Reduction.cpp) |
 | [B. Woeful Permutation](https://codeforces.com/contest/1712/problem/B) | [B. Woeful Permutation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Woeful%20Permutation.cpp) |
+| [B. Decode String](https://codeforces.com/contest/1729/problem/B) | [B. Decode String.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Decode%20String.cpp) |
+| [B. Increasing](https://codeforces.com/contest/1742/problem/B) | [B. Increasing.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Increasing.cpp) |
+| [B. Even-Odd Increments](https://codeforces.com/contest/1744/problem/B) | [B. Even-Odd Increments.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Even-Odd%20Increments.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
