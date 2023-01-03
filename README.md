@@ -247,6 +247,11 @@
 | [A. Maxmina](https://codeforces.com/contest/1746/problem/A) | [A. Maxmina.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Maxmina.cpp) |
 | [A. Number Replacement](https://codeforces.com/contest/1744/problem/A) | [A. Number Replacement.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Number%20Replacement.cpp) |
 | [A. Password](https://codeforces.com/contest/1743/problem/A) | [A. Password.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Password.cpp) |
+| [A. Cowardly Rooks](https://codeforces.com/contest/1749/problem/A) | [A. Cowardly Rooks.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Cowardly%20Rooks.cpp) |
+| [A. Medium Number](https://codeforces.com/contest/1760/problem/A) | [A. Medium Number.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Medium%20Number.cpp) |
+| [A. A+B](https://codeforces.com/contest/1772/problem/A) | [A. A+B.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20A%2BB.cpp) |
+| [A. Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [A. Koxia and Whiteboards.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Koxia%20and%20Whiteboards.cpp) |
+| [A. Two Groups](https://codeforces.com/contest/1747/problem/A) | [A. Two Groups.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Two%20Groups.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -311,6 +316,9 @@
 | [B. Decode String](https://codeforces.com/contest/1729/problem/B) | [B. Decode String.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Decode%20String.cpp) |
 | [B. Increasing](https://codeforces.com/contest/1742/problem/B) | [B. Increasing.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Increasing.cpp) |
 | [B. Even-Odd Increments](https://codeforces.com/contest/1744/problem/B) | [B. Even-Odd Increments.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Even-Odd%20Increments.cpp) |
+| [B. Permutation Value](https://codeforces.com/contest/1743/problem/B) | [B. Permutation Value.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Permutation%20Value.cpp) |
+| [B. Matrix Rotation](https://codeforces.com/contest/1772/problem/B) | [B. Matrix Rotation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Matrix%20Rotation.cpp) |
+| [B. Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B) | [B. Atilla's Favorite Problem.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Atilla's%20Favorite%20Problem.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
@@ -326,6 +334,7 @@
 | [C. Registration system](https://codeforces.com/problemset/problem/4/C) | [C. Registration system.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Registration%20system.cpp) |
 | [C. Double Sort](https://codeforces.com/contest/1681/problem/C) | [C. Double Sort.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Double%20Sort.cpp) |
 | [C. Cypher](https://codeforces.com/contest/1703/problem/C) | [C. Cypher.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Cypher.cpp) |
+| [C. Advantage](https://codeforces.com/contest/1760/problem/C) | [C. Advantage.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Advantage.cpp) |
 
 # D-Solution
 | Problem Link | Solution |
