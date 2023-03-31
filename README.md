@@ -252,6 +252,12 @@
 | [A. A+B](https://codeforces.com/contest/1772/problem/A) | [A. A+B.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20A%2BB.cpp) |
 | [A. Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [A. Koxia and Whiteboards.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Koxia%20and%20Whiteboards.cpp) |
 | [A. Two Groups](https://codeforces.com/contest/1747/problem/A) | [A. Two Groups.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Two%20Groups.cpp) |
+| [A. Greatest Convex](https://codeforces.com/contest/1768/problem/A) | [A. Greatest Convex.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Greatest%20Convex.cpp) |
+| [A1. Gardener and the Capybaras (easy version)](https://codeforces.com/contest/1775/problem/A1) | [A1. Gardener and the Capybaras (easy version).cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A1.%20Gardener%20and%20the%20Capybaras%20(easy%20version).cpp) |
+| [A2. Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [A2. Gardener and the Capybaras (hard version).cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A2.%20Gardener%20and%20the%20Capybaras%20(hard%20version).cpp) |
+| [A. Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | [A. Codeforces Checking.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Codeforces%20Checking.cpp) |
+| [A. Is It a Cat](https://codeforces.com/contest/1800/problem/A) | [A. Is It a Cat.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Is%20It%20a%20Cat.cpp) |
+| [A. Plus or Minus](https://codeforces.com/contest/1807/problem/A) | [A. Plus or Minus.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Plus%20or%20Minus.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -319,6 +325,9 @@
 | [B. Permutation Value](https://codeforces.com/contest/1743/problem/B) | [B. Permutation Value.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Permutation%20Value.cpp) |
 | [B. Matrix Rotation](https://codeforces.com/contest/1772/problem/B) | [B. Matrix Rotation.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Matrix%20Rotation.cpp) |
 | [B. Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B) | [B. Atilla's Favorite Problem.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Atilla's%20Favorite%20Problem.cpp) |
+| [B. Quick Sort](https://codeforces.com/contest/1768/problem/B) | [B. Quick Sort.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Quick%20Sort.cpp) |
+| [B. Following Directions](https://codeforces.com/contest/1791/problem/B) | [B. Following Directions.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Following%20Directions.cpp) |
+| [B. Grab the Candies](https://codeforces.com/contest/1807/problem/B) | [B. Grab the Candies.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Grab%20the%20Candies.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
@@ -335,6 +344,8 @@
 | [C. Double Sort](https://codeforces.com/contest/1681/problem/C) | [C. Double Sort.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Double%20Sort.cpp) |
 | [C. Cypher](https://codeforces.com/contest/1703/problem/C) | [C. Cypher.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Cypher.cpp) |
 | [C. Advantage](https://codeforces.com/contest/1760/problem/C) | [C. Advantage.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Advantage.cpp) |
+| [C. Prepend and Append](https://codeforces.com/contest/1791/problem/C) | [C. Prepend and Append.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Prepend%20and%20Append.cpp) |
+| [C. Find and Replace](https://codeforces.com/contest/1807/problem/C) | [C. Find and Replace.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Find%20and%20Replace.cpp) |
 
 # D-Solution
 | Problem Link | Solution |
@@ -342,3 +353,4 @@
 | [D. Another Problem About Dividing Numbers](https://codeforces.com/problemset/problem/1538/D) | [D. Another Problem About Dividing Numbers.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Another%20Problem%20About%20Dividing%20Numbers.cpp) |
 | [D. Zero Remainder Array](https://codeforces.com/problemset/problem/1374/D) | [D. Zero Remainder Array.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Zero%20Remainder%20Array.cpp) |
 | [D. X-Sum](https://codeforces.com/contest/1676/problem/D) | [D. X-Sum.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20X-Sum.cpp) |
+| [D. Odd Queries](https://codeforces.com/contest/1807/problem/D) | [D. Odd Queries.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Odd%20Queries.cpp) | 
