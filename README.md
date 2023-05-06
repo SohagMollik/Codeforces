@@ -258,6 +258,7 @@
 | [A. Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | [A. Codeforces Checking.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Codeforces%20Checking.cpp) |
 | [A. Is It a Cat](https://codeforces.com/contest/1800/problem/A) | [A. Is It a Cat.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Is%20It%20a%20Cat.cpp) |
 | [A. Plus or Minus](https://codeforces.com/contest/1807/problem/A) | [A. Plus or Minus.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Plus%20or%20Minus.cpp) |
+| [A. Love Story](https://codeforces.com/contest/1829/problem/A) | [A. Love Story.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Love%20Story.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -328,6 +329,7 @@
 | [B. Quick Sort](https://codeforces.com/contest/1768/problem/B) | [B. Quick Sort.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Quick%20Sort.cpp) |
 | [B. Following Directions](https://codeforces.com/contest/1791/problem/B) | [B. Following Directions.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Following%20Directions.cpp) |
 | [B. Grab the Candies](https://codeforces.com/contest/1807/problem/B) | [B. Grab the Candies.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Grab%20the%20Candies.cpp) |
+| [B. Blank Space](https://codeforces.com/contest/1829/problem/B) | [B. Blank Space.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Blank%20Space.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
