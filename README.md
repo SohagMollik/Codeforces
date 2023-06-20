@@ -259,6 +259,7 @@
 | [A. Is It a Cat](https://codeforces.com/contest/1800/problem/A) | [A. Is It a Cat.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Is%20It%20a%20Cat.cpp) |
 | [A. Plus or Minus](https://codeforces.com/contest/1807/problem/A) | [A. Plus or Minus.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Plus%20or%20Minus.cpp) |
 | [A. Love Story](https://codeforces.com/contest/1829/problem/A) | [A. Love Story.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Love%20Story.cpp) |
+| [A. Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | [A. Sasha and Array Coloring.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Sasha%20and%20Array%20Coloring.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
