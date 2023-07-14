@@ -331,6 +331,7 @@
 | [B. Following Directions](https://codeforces.com/contest/1791/problem/B) | [B. Following Directions.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Following%20Directions.cpp) |
 | [B. Grab the Candies](https://codeforces.com/contest/1807/problem/B) | [B. Grab the Candies.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Grab%20the%20Candies.cpp) |
 | [B. Blank Space](https://codeforces.com/contest/1829/problem/B) | [B. Blank Space.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Blank%20Space.cpp) |
+| [B. Long Long](https://codeforces.com/contest/1843/problem/B) | [B. Long Long.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Long%20Long.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
