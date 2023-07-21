@@ -260,6 +260,7 @@
 | [A. Plus or Minus](https://codeforces.com/contest/1807/problem/A) | [A. Plus or Minus.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Plus%20or%20Minus.cpp) |
 | [A. Love Story](https://codeforces.com/contest/1829/problem/A) | [A. Love Story.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Love%20Story.cpp) |
 | [A. Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | [A. Sasha and Array Coloring.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Sasha%20and%20Array%20Coloring.cpp) |
+| [A. To My Critics](https://codeforces.com/contest/1850/problem/A) | [A. To My Critics.c](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20To%20My%20Critics.c) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -332,6 +333,7 @@
 | [B. Grab the Candies](https://codeforces.com/contest/1807/problem/B) | [B. Grab the Candies.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Grab%20the%20Candies.cpp) |
 | [B. Blank Space](https://codeforces.com/contest/1829/problem/B) | [B. Blank Space.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Blank%20Space.cpp) |
 | [B. Long Long](https://codeforces.com/contest/1843/problem/B) | [B. Long Long.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Long%20Long.cpp) |
+| [B. Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | [B. Ten Words of Wisdom.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Ten%20Words%20of%20Wisdom.cpp) |
 
 # C-Solution
 | Problem Link | Solution |
@@ -350,6 +352,7 @@
 | [C. Advantage](https://codeforces.com/contest/1760/problem/C) | [C. Advantage.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Advantage.cpp) |
 | [C. Prepend and Append](https://codeforces.com/contest/1791/problem/C) | [C. Prepend and Append.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Prepend%20and%20Append.cpp) |
 | [C. Find and Replace](https://codeforces.com/contest/1807/problem/C) | [C. Find and Replace.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Find%20and%20Replace.cpp) |
+| [C. Word on the Paper](https://codeforces.com/contest/1850/problem/C) | [C. Word on the Paper.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Word%20on%20the%20Paper.cpp) |
 
 # D-Solution
 | Problem Link | Solution |
