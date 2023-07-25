@@ -261,6 +261,7 @@
 | [A. Love Story](https://codeforces.com/contest/1829/problem/A) | [A. Love Story.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Love%20Story.cpp) |
 | [A. Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | [A. Sasha and Array Coloring.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Sasha%20and%20Array%20Coloring.cpp) |
 | [A. To My Critics](https://codeforces.com/contest/1850/problem/A) | [A. To My Critics.c](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20To%20My%20Critics.c) |
+| [A. Desorting](https://codeforces.com/contest/1853/problem/A) | [A. Desorting.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Desorting.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
