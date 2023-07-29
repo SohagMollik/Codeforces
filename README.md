@@ -262,6 +262,7 @@
 | [A. Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | [A. Sasha and Array Coloring.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Sasha%20and%20Array%20Coloring.cpp) |
 | [A. To My Critics](https://codeforces.com/contest/1850/problem/A) | [A. To My Critics.c](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20To%20My%20Critics.c) |
 | [A. Desorting](https://codeforces.com/contest/1853/problem/A) | [A. Desorting.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Desorting.cpp) |
+| [A. Drawing Task](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A) | [A. Drawing Task.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Drawing%20Task.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
@@ -362,3 +363,4 @@
 | [D. Zero Remainder Array](https://codeforces.com/problemset/problem/1374/D) | [D. Zero Remainder Array.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Zero%20Remainder%20Array.cpp) |
 | [D. X-Sum](https://codeforces.com/contest/1676/problem/D) | [D. X-Sum.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20X-Sum.cpp) |
 | [D. Odd Queries](https://codeforces.com/contest/1807/problem/D) | [D. Odd Queries.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Odd%20Queries.cpp) | 
+| [D. Juicer](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/D) | [D. Juicer.cpp](https://github.com/SohagMollik/Codeforces/blob/main/D%20-%20Solution/D.%20Juicer.cpp) |
