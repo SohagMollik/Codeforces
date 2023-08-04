@@ -364,3 +364,4 @@
 | [D. X-Sum](https://codeforces.com/contest/1676/problem/D) | [D. X-Sum.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20X-Sum.cpp) |
 | [D. Odd Queries](https://codeforces.com/contest/1807/problem/D) | [D. Odd Queries.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/D%20-%20Solution/D.%20Odd%20Queries.cpp) | 
 | [D. Juicer](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/D) | [D. Juicer.cpp](https://github.com/SohagMollik/Codeforces/blob/main/D%20-%20Solution/D.%20Juicer.cpp) |
+| [D. Balanced Round](https://codeforces.com/contest/1850/problem/D) | [D. Balanced Round.cpp](https://github.com/SohagMollik/Codeforces/blob/main/D%20-%20Solution/D.%20Balanced%20Round.cpp) |
