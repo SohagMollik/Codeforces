@@ -263,6 +263,7 @@
 | [A. To My Critics](https://codeforces.com/contest/1850/problem/A) | [A. To My Critics.c](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20To%20My%20Critics.c) |
 | [A. Desorting](https://codeforces.com/contest/1853/problem/A) | [A. Desorting.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Desorting.cpp) |
 | [A. Drawing Task](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A) | [A. Drawing Task.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Drawing%20Task.cpp) |
+| [A. Buttons](https://codeforces.com/contest/1858/problem/A) | [A. Buttons.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Buttons.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
