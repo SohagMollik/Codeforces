@@ -264,6 +264,7 @@
 | [A. Desorting](https://codeforces.com/contest/1853/problem/A) | [A. Desorting.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Desorting.cpp) |
 | [A. Drawing Task](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A) | [A. Drawing Task.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Drawing%20Task.cpp) |
 | [A. Buttons](https://codeforces.com/contest/1858/problem/A) | [A. Buttons.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Buttons.cpp) |
+| [A. Channel](https://codeforces.com/contest/1863/problem/A) | [A. Channel.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Channel.cpp) |
 
 # B-Solution
 | Problem Link | Solution |
