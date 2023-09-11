@@ -4,8 +4,8 @@
 - [D - Solution](#D-Solution) 
 
 # A-Solution
-|  Problem Link | Solution |
-|  ------------ | -------- |
+|  Problem Link | Solution | Problem tags |
+|  ------------ | -------- | ------------ |
 | [A. A Variety of Operations](https://codeforces.com/problemset/problem/1556/A?locale=en) | [A. A Variety of Operations.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20A%20Variety%20of%20Operations.cpp) |
 | [A. Add Odd or Subtract Even](https://codeforces.com/problemset/problem/1311/A) | [A. Add Odd or Subtract Even.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Add%20Odd%20or%20Subtract%20Even.cpp) |
 | [A. Add and Divide](https://codeforces.com/problemset/problem/1485/A) | [A. Add and Divide.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Add%20and%20Divide.cpp) |
@@ -266,6 +266,8 @@
 | [A. Buttons](https://codeforces.com/contest/1858/problem/A) | [A. Buttons.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Buttons.cpp) |
 | [A. Channel](https://codeforces.com/contest/1863/problem/A) | [A. Channel.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Channel.cpp) |
 | [A. Prime Deletion](https://codeforces.com/contest/1861/problem/A) | [A. Prime Deletion.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Prime%20Deletion.cpp) |
+| [A. green_gold_dog, array and permutation](https://codeforces.com/contest/1867/problem/A) | [A. green_gold_dog, array and permutation.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20green_gold_dog%2C%20array%20and%20permutation.cpp) |  constructive algorithms, sortings |
+
 
 # B-Solution
 | Problem Link | Solution |
