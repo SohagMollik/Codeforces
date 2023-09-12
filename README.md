@@ -270,8 +270,8 @@
 
 
 # B-Solution
-| Problem Link | Solution |
-| ------------ | -------- |
+| Problem Link | Solution | Problem tags |
+| ------------ | -------- | ------------ |
 | [B. A and B and Compilation Errors](https://codeforces.com/problemset/problem/519/B) | [B. A and B and Compilation Errors.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20A%20and%20B%20and%20Compilation%20Errors.cpp) |
 | [B. AccurateLee](https://codeforces.com/problemset/problem/1369/B) | [B. AccurateLee.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20AccurateLee.cpp) |
 | [B. Array Reodering](https://codeforces.com/problemset/problem/1535/B) | [B. Array Reodering.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Array%20Reodering.cpp) |
@@ -341,6 +341,7 @@
 | [B. Blank Space](https://codeforces.com/contest/1829/problem/B) | [B. Blank Space.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Blank%20Space.cpp) |
 | [B. Long Long](https://codeforces.com/contest/1843/problem/B) | [B. Long Long.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Long%20Long.cpp) |
 | [B. Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | [B. Ten Words of Wisdom.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Ten%20Words%20of%20Wisdom.cpp) |
+| [B. XOR Palindromes](https://codeforces.com/contest/1867/problem/B) | [B. XOR Palindromes.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20XOR%20Palindromes.cpp) | bitmasks, constructive algorithms, strings |
 
 # C-Solution
 | Problem Link | Solution |
