@@ -267,6 +267,7 @@
 | [A. Channel](https://codeforces.com/contest/1863/problem/A) | [A. Channel.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Channel.cpp) |
 | [A. Prime Deletion](https://codeforces.com/contest/1861/problem/A) | [A. Prime Deletion.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Prime%20Deletion.cpp) |
 | [A. green_gold_dog, array and permutation](https://codeforces.com/contest/1867/problem/A) | [A. green_gold_dog, array and permutation.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20green_gold_dog%2C%20array%20and%20permutation.cpp) |  constructive algorithms, sortings |
+| [A. Short Sort](https://codeforces.com/contest/1873/problem/A) | [A. Short Sort.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Short%20Sort.cpp) | brute force, implementation |
 
 
 # B-Solution
@@ -342,6 +343,7 @@
 | [B. Long Long](https://codeforces.com/contest/1843/problem/B) | [B. Long Long.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Long%20Long.cpp) |
 | [B. Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | [B. Ten Words of Wisdom.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Ten%20Words%20of%20Wisdom.cpp) |
 | [B. XOR Palindromes](https://codeforces.com/contest/1867/problem/B) | [B. XOR Palindromes.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20XOR%20Palindromes.cpp) | bitmasks, constructive algorithms, strings |
+| [B. Good Kid](https://codeforces.com/contest/1873/problem/B) | [B. Good Kid.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Good%20Kid.cpp) | brute force, greedy, math |
 
 # C-Solution
 | Problem Link | Solution |
