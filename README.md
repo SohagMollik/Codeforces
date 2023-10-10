@@ -269,6 +269,7 @@
 | [A. green_gold_dog, array and permutation](https://codeforces.com/contest/1867/problem/A) | [A. green_gold_dog, array and permutation.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20green_gold_dog%2C%20array%20and%20permutation.cpp) |  constructive algorithms, sortings |
 | [A. Short Sort](https://codeforces.com/contest/1873/problem/A) | [A. Short Sort.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Short%20Sort.cpp) | brute force, implementation |
 | [A. How Much Does Daytona Cost](https://codeforces.com/contest/1878/problem/A) | [A. How Much Does Daytona Cost.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20How%20Much%20Does%20Daytona%20Cost.cpp) | greedy |
+| [A. Sum of Three](https://codeforces.com/contest/1886/problem/A) | [A. Sum of Three.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Sum%20of%20Three.cpp) | brute force, constructive algorithms, math |
 
 
 # B-Solution
