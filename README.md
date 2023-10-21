@@ -270,6 +270,7 @@
 | [A. Short Sort](https://codeforces.com/contest/1873/problem/A) | [A. Short Sort.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Short%20Sort.cpp) | brute force, implementation |
 | [A. How Much Does Daytona Cost](https://codeforces.com/contest/1878/problem/A) | [A. How Much Does Daytona Cost.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20How%20Much%20Does%20Daytona%20Cost.cpp) | greedy |
 | [A. Sum of Three](https://codeforces.com/contest/1886/problem/A) | [A. Sum of Three.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Sum%20of%20Three.cpp) | brute force, constructive algorithms, math |
+| [A. Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | [A. Don't Try to Count.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Don't%20Try%20to%20Count.cpp) | brute force, strings |
 
 
 # B-Solution
