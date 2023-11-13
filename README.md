@@ -271,6 +271,7 @@
 | [A. How Much Does Daytona Cost](https://codeforces.com/contest/1878/problem/A) | [A. How Much Does Daytona Cost.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20How%20Much%20Does%20Daytona%20Cost.cpp) | greedy |
 | [A. Sum of Three](https://codeforces.com/contest/1886/problem/A) | [A. Sum of Three.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Sum%20of%20Three.cpp) | brute force, constructive algorithms, math |
 | [A. Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | [A. Don't Try to Count.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Don't%20Try%20to%20Count.cpp) | brute force, strings |
+| [A. Selecting Good Password](https://codeforces.com/gym/485845/problem/A) | [A. Selecting Good Password.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/A.%20Selecting%20Good%20Password.cpp) | brute force, strings |
 
 
 # B-Solution
@@ -367,6 +368,7 @@
 | [C. Prepend and Append](https://codeforces.com/contest/1791/problem/C) | [C. Prepend and Append.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Prepend%20and%20Append.cpp) |
 | [C. Find and Replace](https://codeforces.com/contest/1807/problem/C) | [C. Find and Replace.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Find%20and%20Replace.cpp) |
 | [C. Word on the Paper](https://codeforces.com/contest/1850/problem/C) | [C. Word on the Paper.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Word%20on%20the%20Paper.cpp) |
+| [C. Boxes Packing](https://codeforces.com/problemset/problem/903/C) | [C. Boxes Packing.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Boxes%20Packing.cpp) | greedy |
 
 # D-Solution
 | Problem Link | Solution |
