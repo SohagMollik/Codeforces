@@ -4,8 +4,8 @@
 - [D - Solution](#D-Solution) 
 
 # A-Solution
-|  Problem Link | Solution | Problem tags |
-|  ------------ | -------- | ------------ |
+|  Problem Link | Solution | Problem tags | Difficulty |
+|  ------------ | -------- | ------------ | ---------- |
 | [A. A Variety of Operations](https://codeforces.com/problemset/problem/1556/A?locale=en) | [A. A Variety of Operations.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20A%20Variety%20of%20Operations.cpp) |
 | [A. Add Odd or Subtract Even](https://codeforces.com/problemset/problem/1311/A) | [A. Add Odd or Subtract Even.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Add%20Odd%20or%20Subtract%20Even.cpp) |
 | [A. Add and Divide](https://codeforces.com/problemset/problem/1485/A) | [A. Add and Divide.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/A%20-%20Solution/A.%20Add%20and%20Divide.cpp) |
@@ -272,11 +272,13 @@
 | [A. Sum of Three](https://codeforces.com/contest/1886/problem/A) | [A. Sum of Three.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Sum%20of%20Three.cpp) | brute force, constructive algorithms, math |
 | [A. Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | [A. Don't Try to Count.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Don't%20Try%20to%20Count.cpp) | brute force, strings |
 | [A. Selecting Good Password](https://codeforces.com/gym/485845/problem/A) | [A. Selecting Good Password.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/A.%20Selecting%20Good%20Password.cpp) | brute force, strings |
+| [A. Game with Integers](https://codeforces.com/contest/1899/problem/A) | [A. Game with Integers.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Game%20with%20Integers.cpp) | games, math, number theory | 800 |
+| [A. Rook](https://codeforces.com/contest/1907/problem/A) | [A. Rook.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Rook.cpp) | implementation | 800 |
 
 
 # B-Solution
-| Problem Link | Solution | Problem tags |
-| ------------ | -------- | ------------ |
+| Problem Link | Solution | Problem tags | Difficulty |
+| ------------ | -------- | ------------ | ---------- |
 | [B. A and B and Compilation Errors](https://codeforces.com/problemset/problem/519/B) | [B. A and B and Compilation Errors.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20A%20and%20B%20and%20Compilation%20Errors.cpp) |
 | [B. AccurateLee](https://codeforces.com/problemset/problem/1369/B) | [B. AccurateLee.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20AccurateLee.cpp) |
 | [B. Array Reodering](https://codeforces.com/problemset/problem/1535/B) | [B. Array Reodering.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/B%20-%20Solution/B.%20Array%20Reodering.cpp) |
@@ -349,6 +351,7 @@
 | [B. XOR Palindromes](https://codeforces.com/contest/1867/problem/B) | [B. XOR Palindromes.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20XOR%20Palindromes.cpp) | bitmasks, constructive algorithms, strings |
 | [B. Good Kid](https://codeforces.com/contest/1873/problem/B) | [B. Good Kid.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Good%20Kid.cpp) | brute force, greedy, math |
 | [B. Aleksa and Stack](https://codeforces.com/contest/1878/problem/B) | [B. Aleksa and Stack.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Aleksa%20and%20Stack.cpp) | constructive algorithms, math |
+| [B. YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | [B. YetnotherrokenKeoard.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20YetnotherrokenKeoard.cpp) | data structures, implementation, strings | 1000 |
 
 # C-Solution
 | Problem Link | Solution |
