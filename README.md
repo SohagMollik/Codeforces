@@ -358,8 +358,8 @@
 
 
 # C-Solution
-| Problem Link | Solution |
-| ------------ | -------- |
+| Problem Link | Solution | Problem tags | Difficulty |
+| ------------ | -------- | ------------ | ---------- |
 | [C. Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | [C. Infinite Replacement.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Infinite%20Replacement.cpp) |
 | [C. Most Similar Words](https://codeforces.com/contest/1676/problem/C) | [C. Most Similar Words.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Most%20Similar%20Words.cpp) |
 | [C. Odd Even Increments](https://codeforces.com/contest/1669/problem/C) | [C. Odd Even Increments.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Odd%20Even%20Increments.cpp) |
