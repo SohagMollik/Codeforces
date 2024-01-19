@@ -274,6 +274,8 @@
 | [A. Selecting Good Password](https://codeforces.com/gym/485845/problem/A) | [A. Selecting Good Password.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/A.%20Selecting%20Good%20Password.cpp) | brute force, strings |
 | [A. Game with Integers](https://codeforces.com/contest/1899/problem/A) | [A. Game with Integers.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Game%20with%20Integers.cpp) | games, math, number theory | 800 |
 | [A. Rook](https://codeforces.com/contest/1907/problem/A) | [A. Rook.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Rook.cpp) | implementation | 800 |
+| [A. Odd One Out](https://codeforces.com/contest/1915/problem/A) | [A. Odd One Out.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Odd%20One%20Out.cpp) | bitmasks, implementation | 800 |
+
 
 
 # B-Solution
@@ -352,6 +354,8 @@
 | [B. Good Kid](https://codeforces.com/contest/1873/problem/B) | [B. Good Kid.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Good%20Kid.cpp) | brute force, greedy, math |
 | [B. Aleksa and Stack](https://codeforces.com/contest/1878/problem/B) | [B. Aleksa and Stack.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Aleksa%20and%20Stack.cpp) | constructive algorithms, math |
 | [B. YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | [B. YetnotherrokenKeoard.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20YetnotherrokenKeoard.cpp) | data structures, implementation, strings | 1000 |
+| [B. Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | [B. Not Quite Latin Square.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Not%20Quite%20Latin%20Square.cpp) | bitmasks, brute force, implementation | 800 |
+
 
 # C-Solution
 | Problem Link | Solution |
@@ -372,6 +376,7 @@
 | [C. Find and Replace](https://codeforces.com/contest/1807/problem/C) | [C. Find and Replace.cpp](https://github.com/SohagMollik/Codeforces-Online-Judge-Solution/blob/main/C%20-%20Solution/C.%20Find%20and%20Replace.cpp) |
 | [C. Word on the Paper](https://codeforces.com/contest/1850/problem/C) | [C. Word on the Paper.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Word%20on%20the%20Paper.cpp) |
 | [C. Boxes Packing](https://codeforces.com/problemset/problem/903/C) | [C. Boxes Packing.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Boxes%20Packing.cpp) | greedy |
+| [C. Can I Square](https://codeforces.com/contest/1915/problem/C) | [C. Can I Square.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Can%20I%20Square.cpp) | binary search, implementation | 800 |
 
 # D-Solution
 | Problem Link | Solution |
