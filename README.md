@@ -275,7 +275,7 @@
 | [A. Game with Integers](https://codeforces.com/contest/1899/problem/A) | [A. Game with Integers.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Game%20with%20Integers.cpp) | games, math, number theory | 800 |
 | [A. Rook](https://codeforces.com/contest/1907/problem/A) | [A. Rook.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Rook.cpp) | implementation | 800 |
 | [A. Odd One Out](https://codeforces.com/contest/1915/problem/A) | [A. Odd One Out.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Odd%20One%20Out.cpp) | bitmasks, implementation | 800 |
-
+| [A. Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | [A. Recovering a Small String.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Recovering%20a%20Small%20String.cpp) | brute force strings | 800 |
 
 
 # B-Solution
