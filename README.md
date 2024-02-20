@@ -276,6 +276,8 @@
 | [A. Rook](https://codeforces.com/contest/1907/problem/A) | [A. Rook.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Rook.cpp) | implementation | 800 |
 | [A. Odd One Out](https://codeforces.com/contest/1915/problem/A) | [A. Odd One Out.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Odd%20One%20Out.cpp) | bitmasks, implementation | 800 |
 | [A. Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | [A. Recovering a Small String.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Recovering%20a%20Small%20String.cpp) | brute force strings | 800 |
+| [A. Thorns and Coins](https://codeforces.com/contest/1932/problem/A) | [A. Thorns and Coins.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Thorns%20and%20Coins.cpp) | dp, greedy, implementation | 1000 |
+| [A. Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | [A. Vlad and the Best of Five.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Vlad%20and%20the%20Best%20of%20Five.cpp) | implementation | 800 |
 
 
 # B-Solution
@@ -355,6 +357,7 @@
 | [B. Aleksa and Stack](https://codeforces.com/contest/1878/problem/B) | [B. Aleksa and Stack.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Aleksa%20and%20Stack.cpp) | constructive algorithms, math |
 | [B. YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | [B. YetnotherrokenKeoard.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20YetnotherrokenKeoard.cpp) | data structures, implementation, strings | 1000 |
 | [B. Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | [B. Not Quite Latin Square.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Not%20Quite%20Latin%20Square.cpp) | bitmasks, brute force, implementation | 800 |
+| [B. Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | [B. Vlad and Shapes.cpp](https://github.com/SohagMollik/Codeforces/blob/main/B%20-%20Solution/B.%20Vlad%20and%20Shapes.cpp) | geometry, implementation | 900 |
 
 
 # C-Solution
@@ -377,6 +380,7 @@
 | [C. Word on the Paper](https://codeforces.com/contest/1850/problem/C) | [C. Word on the Paper.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Word%20on%20the%20Paper.cpp) |
 | [C. Boxes Packing](https://codeforces.com/problemset/problem/903/C) | [C. Boxes Packing.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Boxes%20Packing.cpp) | greedy |
 | [C. Can I Square](https://codeforces.com/contest/1915/problem/C) | [C. Can I Square.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Can%20I%20Square.cpp) | binary search, implementation | 800 |
+| [C. Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [C. Vlad and a Sum of Sum of Digits.cpp](https://github.com/SohagMollik/Codeforces/blob/main/C%20-%20Solution/C.%20Vlad%20and%20a%20Sum%20of%20Sum%20of%20Digits.cpp) | dp, implementation | 1000 |
 
 # D-Solution
 | Problem Link | Solution |
