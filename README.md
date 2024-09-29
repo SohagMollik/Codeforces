@@ -278,7 +278,12 @@
 | [A. Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | [A. Recovering a Small String.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Recovering%20a%20Small%20String.cpp) | brute force strings | 800 |
 | [A. Thorns and Coins](https://codeforces.com/contest/1932/problem/A) | [A. Thorns and Coins.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Thorns%20and%20Coins.cpp) | dp, greedy, implementation | 1000 |
 | [A. Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | [A. Vlad and the Best of Five.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Vlad%20and%20the%20Best%20of%20Five.cpp) | implementation | 800 |
-
+| [A. A+B Again](https://codeforces.com/contest/1999/problem/A) | [A. A+B Again.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20A%2BB%20Again.cpp) | implementation | 800 |
+| [A. Legs](https://codeforces.com/contest/1996/problem/A) | [](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Legs.cpp) | binary search, math, ternary search | 800 |
+| [A. Minimize](https://codeforces.com/contest/2009/problem/A) | [A. Minimize.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Minimize.cpp) | brute force, math | 800 |
+| [A. Only Pluses](https://codeforces.com/contest/1992/problem/A) | [A. Only Pluses](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Only%20Pluses.cpp) | brute force, constructive algorithms, greedy, math, sortings | 800 |
+| [A. Robin Helps](https://codeforces.com/contest/2014/problem/A) | [A. Robin Helps.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Robin%20Helps.cpp) | greedy, implementation | 800 |
+| [A. Turtle Puzzle: Rearrange and Negate](https://codeforces.com/contest/1933/problem/A) | [A. Turtle Puzzle: Rearrange and Negate.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Turtle%20Puzzle%20Rearrange%20and%20Negate.cpp) | greedy, math, sortings | 800 |
 
 # B-Solution
 | Problem Link | Solution | Problem tags | Difficulty |
