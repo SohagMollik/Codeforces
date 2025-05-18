@@ -284,6 +284,7 @@
 | [A. Only Pluses](https://codeforces.com/contest/1992/problem/A) | [A. Only Pluses](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Only%20Pluses.cpp) | brute force, constructive algorithms, greedy, math, sortings | 800 |
 | [A. Robin Helps](https://codeforces.com/contest/2014/problem/A) | [A. Robin Helps.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Robin%20Helps.cpp) | greedy, implementation | 800 |
 | [A. Turtle Puzzle: Rearrange and Negate](https://codeforces.com/contest/1933/problem/A) | [A. Turtle Puzzle: Rearrange and Negate.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20Turtle%20Puzzle%20Rearrange%20and%20Negate.cpp) | greedy, math, sortings | 800 |
+| [A. It's Time To Duel](https://codeforces.com/contest/2109/problem/A) | [A. It's Time To Duel.cpp](https://github.com/SohagMollik/Codeforces/blob/main/A%20-%20Solution/A.%20It's%20Time%20To%20Duel.cpp) | implementation | 800 |
 
 # B-Solution
 | Problem Link | Solution | Problem tags | Difficulty |
